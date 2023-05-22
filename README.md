@@ -1,1 +1,5 @@
-# Notes and Projects for Methods of Text Analysis course
+# Methods of Text Analysis course
+
+Here is a simple footnote[^1]. With some additional text after it.
+
+[^1]: My reference.
