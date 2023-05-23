@@ -1,5 +1,19 @@
 # Methods of Text Analysis Portfolio
 
+### Table of Contents
+
+- [Week 2: Jupyter Basics](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/Week2_MBS.ipynb)
+- [Week 3: Working with NLTK](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/Week3_MBS.ipynb)
+- [Week 4: NLTK Dispersions](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/Week4_MBS.ipynb)
+- [Week 5: Exploratory Analysis with Text Data](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/week5_MBS.ipynb)
+- [Week 7: Working with Data](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/week7_MBS.ipynb)
+- [Week8: Working with Text Data from APIs](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/Week8_MBS.ipynb)
+- [Week9: Introduction to stylometry with Python](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/week9_MBS.ipynb)
+- [Week 10: Vectors, Features, and Similarity](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/Week10_MBS.ipynb)
+- [Week 11: Supervised Text Classification Algorithms](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/Week11_MBS.ipynb)
+- [Week 13: Analyzing Sentiment](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/week13_MBS.ipynb)
+- [Week 14: Topic models with Gensim](https://github.com/mbransons/DHUM72500-Methods_of_Text_Analysis/blob/main/assignments/notebooks/Week14_MBS.ipynb)
+
 ### Introduction
 
 To explore the possibility of feminist text analysis, one might first contemplate Ahmed's call to "live a feminist life." In particular in what it is not – adopting a fixed set of ideals or norms, but about asking ethical questions and striving for equality and support in an unjust world. It involves challenging solidified histories and walls that perpetuate inequality.[^1] Engaging in 'feminist' text analysis should be a pursuit characterized by questioning and striving for equality. Moreover, when feminist scholars undertake computational text analysis, they must reflect upon several crucial questions at different stages of the process. Here are some key questions to keep in mind:
